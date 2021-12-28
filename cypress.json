@@ -1,0 +1,16 @@
+{
+    "watchForFileChanges": false,
+    "responseTimeout": 60000,
+    "screenshotOnRunFailure": false,
+    "video": false,
+    "baseUrl": "https://opensource-demo.orangehrmlive.com/",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "code": false,
+        "overwrite": false,
+        "reportFilename": "Practice-Report",
+        "autoOpen": true,
+        "cahrts": true,
+        "reportDir": ""
+    }
+}
